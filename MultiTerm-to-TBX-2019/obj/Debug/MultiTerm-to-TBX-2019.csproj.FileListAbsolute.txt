@@ -1,0 +1,11 @@
+C:\Users\Kaden Carr\source\repos\MultiTerm-to-TBX-2019\MultiTerm-to-TBX-2019\bin\Debug\MultiTerm-to-TBX-2019.exe.config
+C:\Users\Kaden Carr\source\repos\MultiTerm-to-TBX-2019\MultiTerm-to-TBX-2019\bin\Debug\MultiTerm-to-TBX-2019.exe
+C:\Users\Kaden Carr\source\repos\MultiTerm-to-TBX-2019\MultiTerm-to-TBX-2019\bin\Debug\MultiTerm-to-TBX-2019.pdb
+C:\Users\Kaden Carr\source\repos\MultiTerm-to-TBX-2019\MultiTerm-to-TBX-2019\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kaden Carr\source\repos\MultiTerm-to-TBX-2019\MultiTerm-to-TBX-2019\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kaden Carr\source\repos\MultiTerm-to-TBX-2019\MultiTerm-to-TBX-2019\obj\Debug\MultiTerm_to_TBX_2019.Properties.Resources.resources
+C:\Users\Kaden Carr\source\repos\MultiTerm-to-TBX-2019\MultiTerm-to-TBX-2019\obj\Debug\MultiTerm-to-TBX-2019.csproj.GenerateResource.cache
+C:\Users\Kaden Carr\source\repos\MultiTerm-to-TBX-2019\MultiTerm-to-TBX-2019\obj\Debug\MultiTerm-to-TBX-2019.csproj.CoreCompileInputs.cache
+C:\Users\Kaden Carr\source\repos\MultiTerm-to-TBX-2019\MultiTerm-to-TBX-2019\obj\Debug\MultiTerm-to-TBX-2019.csproj.CopyComplete
+C:\Users\Kaden Carr\source\repos\MultiTerm-to-TBX-2019\MultiTerm-to-TBX-2019\obj\Debug\MultiTerm-to-TBX-2019.exe
+C:\Users\Kaden Carr\source\repos\MultiTerm-to-TBX-2019\MultiTerm-to-TBX-2019\obj\Debug\MultiTerm-to-TBX-2019.pdb

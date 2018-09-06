@@ -1,0 +1,259 @@
+[
+  "TBX-Default",
+  "TBXXCSV02.xcs",
+  {
+    "concept": {
+      "origination": [
+        [
+          [
+            "@auxInfo",
+            "<transac type='transactionType' />",
+            "null",
+            "content"
+          ]
+        ]
+      ],
+      "modification": [
+        [
+          [
+            "@auxInfo",
+            "<transac type='transactionType' />",
+            "null",
+            "content"
+          ]
+        ]
+      ],
+      "Fachgebiet": [
+        [
+          [
+            "@auxInfo",
+            "<descrip type='subjectField' />",
+            "null",
+            "content"
+          ]
+        ]
+      ],
+      "Lenoch-Code": [
+        [
+          [
+            "@auxInfo",
+            "<descrip type='classificationCode' />",
+            "null",
+            "content"
+          ]
+        ]
+      ],
+      "Autor": [
+        [
+          [
+            "@auxInfo",
+            "<note />",
+            "null",
+            "content"
+          ]
+        ]
+      ],
+      "Graphic": [
+        [
+          [
+            "@auxInfo",
+            "<note />",
+            "null",
+            "content"
+          ]
+        ]
+      ]
+    },
+    "language": {},
+    "term": {
+      "L-Voll": [
+        [
+          [
+            "@auxInfo",
+            "<note />",
+            "null",
+            "content"
+          ]
+        ]
+      ],
+      "Genus": [
+        [
+          [
+            "@unhandled",
+            "<unhandled type='unhandled' />",
+            "null",
+            "content"
+          ],
+          [
+            "n.",
+            "m.",
+            "f."
+          ]
+        ],
+        [
+          "@termNote",
+          "<termNote type='grammaticalGender' />",
+          {
+            "n.": "neuter",
+            "m.": "masculine",
+            "f.": "feminine"
+          },
+          "content"
+        ]
+      ],
+      "Wortklasse": [
+        [
+          [
+            "@unhandled",
+            "<unhandled type='unhandled' />",
+            "null",
+            "content"
+          ],
+          [
+            "sub",
+            "Nominalphrase"
+          ]
+        ],
+        [
+          "@termNote",
+          "<termNote type='partOfSpeech' />",
+          {
+            "sub": "noun",
+            "Nominalphrase": "other"
+          },
+          "content"
+        ]
+      ],
+      "Definition": [
+        [
+          [
+            "@auxInfo",
+            "<descrip type='definition' />",
+            "null",
+            "content"
+          ]
+        ]
+      ],
+      "D-Quelle": [
+        [
+          [
+            "@auxInfo",
+            "<admin type='source' />",
+            "null",
+            "content"
+          ]
+        ]
+      ],
+      "Kontext": [
+        [
+          [
+            "@auxInfo",
+            "<descrip type='context' />",
+            "null",
+            "content"
+          ]
+        ]
+      ],
+      "K-Quelle": [
+        [
+          [
+            "@auxInfo",
+            "<admin type='source' />",
+            "null",
+            "content"
+          ]
+        ]
+      ],
+      "Gebrauch": [
+        [
+          [
+            "@termNote",
+            "<termNote type='usageNote' />",
+            "null",
+            "content"
+          ]
+        ]
+      ],
+      "Anmerkung": [
+        [
+          [
+            "@auxInfo",
+            "<note />",
+            "null",
+            "content"
+          ]
+        ]
+      ],
+      "Benennungtyp": [
+        [
+          [
+            "@unhandled",
+            "<unhandled type='unhandled' />",
+            "null",
+            "content"
+          ],
+          [
+            "Vollform",
+            "Kurzform"
+          ]
+        ],
+        [
+          "@termNote",
+          "<termNote type='termType' />",
+          {
+            "Vollform": "fullForm",
+            "Kurzform": "shortForm"
+          },
+          "content"
+        ]
+      ],
+      "Numerus": [
+        [
+          [
+            "@unhandled",
+            "<unhandled type='unhandled' />",
+            "null",
+            "content"
+          ],
+          [
+            "pl.",
+            "sg."
+          ]
+        ],
+        [
+          "@termNote",
+          "<termNote type='grammaticalNumber' />",
+          {
+            "pl.": "plural",
+            "sg.": "singular"
+          },
+          "content"
+        ]
+      ]
+    }
+  },
+  {
+    "conceptGrp": [
+      [
+        "Definition",
+        "D-Quelle",
+        "auxInfo"
+      ]
+    ],
+    "languageGrp": [
+      [
+        "Definition",
+        "D-Quelle",
+        "auxInfo"
+      ]
+    ],
+    "termGrp": [
+      [
+        "Kontext",
+        "K-Quelle",
+        "termNote"
+      ]
+    ]
+  },
+  {}
+]
